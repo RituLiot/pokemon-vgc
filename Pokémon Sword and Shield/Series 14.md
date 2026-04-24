@@ -4,4 +4,6 @@
 
 **Author:** Ryota Otsubo
 
-**Source:** https://pokepast.es/8e04fb513b0c52dc
+**Team:** https://pokepast.es/8e04fb513b0c52dc
+
+**Winrate:** 14-9 (61%)
