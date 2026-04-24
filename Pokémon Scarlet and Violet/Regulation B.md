@@ -6,4 +6,4 @@
 
 **Team:** https://pokepast.es/5b3f367a4267c16a
 
-**Win-rate:** 16-14 (53%)
+**Winrate:** 16-14 (53%)
