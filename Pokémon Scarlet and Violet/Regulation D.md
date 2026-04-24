@@ -13,7 +13,7 @@
 
 # Galarian Moltres/Spectrier
 
-![team](../!Images/SVD%20Typhlosion.jpg)
+![team](../!Images/SVD%20Moltres.jpg)
 
 **Author:** Kogepan Teru
 
