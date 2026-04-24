@@ -1,6 +1,6 @@
 # Regigigas/Galarian Weezing
 
-![team](!Images/SWSH14%20Slow%20Gas.jpg)
+![team](../!Images/SWSH14%20Slow%20Gas.jpg)
 
 **Author:** Ryota Otsubo
 
