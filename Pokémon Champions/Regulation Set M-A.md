@@ -6,7 +6,7 @@
 
 # Mega Froslass
 
-![team](../!Images/M-A%20It%snew.jpg)
+![team](../!Images/M-A%20It%20snew.jpg)
 
 **Author:** Yunittoyuni
 
@@ -16,7 +16,7 @@
 
 # Mega Delphox
 
-![team](../!Images/M-A%20Flying%20fox.jpg)
+![team](../!Images/M-A%20Flying%20Fox.jpg)
 
 **Author:** UrsakingVGC
 
